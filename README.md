@@ -1,7 +1,8 @@
 Retail Analytics Pipeline
 ========
 
-Architechture
+**Architecture**
+
 
 
 Project Contents
